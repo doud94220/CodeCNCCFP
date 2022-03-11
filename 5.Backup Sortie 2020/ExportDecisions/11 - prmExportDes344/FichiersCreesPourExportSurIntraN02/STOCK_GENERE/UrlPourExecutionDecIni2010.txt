@@ -1,0 +1,6 @@
+https://pf.cnccfp.org/intranet_php/decision/decision_pourExportPonctuel344_viaNavig.php?util=84462&cand=99999&type=3&annee=2010
+
+
+
+NOTE : avant il faut avoir choisi l'année d'élection = 2010 dans l'ancienne application election,
+sinon ca ne plantera pas, mais on aura un document concernant un candidat dont le nom ne sera pas dans le nom du fichier, et on n'aura pas le numéro de lettre dans le nom du fichier

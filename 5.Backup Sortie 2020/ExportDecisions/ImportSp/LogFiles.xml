@@ -1,0 +1,15 @@
+﻿<Webs>
+  <Web Url="/">
+    <List Url="/LogsImport">
+      <!-- DOSSIER -->
+      <Folder Name="%%TODAY%%"/>
+      <!-- UPLOAD DE FICHIER -->
+      <File Folder="/%%TODAY%%" FilePath="Decisions_initiales/Decisions_initiales.log" Overwrite="False" />
+      <File Folder="/%%TODAY%%" FilePath="Decisions_rec_gr/Decisions_rec_gr.log" Overwrite="False" />
+      <File Folder="/%%TODAY%%" FilePath="Decisions_rectif/Decisions_rectif.log" Overwrite="False" />
+      <File Folder="/%%TODAY%%" FilePath="Jugements/Jugements.log" Overwrite="False" />
+      <File Folder="/%%TODAY%%" FilePath="Memoires/Memoires.log" Overwrite="False" />
+      <File Folder="/%%TODAY%%" FilePath="Requetes/Requetes.log" Overwrite="False" />
+    </List>
+  </Web>
+</Webs>

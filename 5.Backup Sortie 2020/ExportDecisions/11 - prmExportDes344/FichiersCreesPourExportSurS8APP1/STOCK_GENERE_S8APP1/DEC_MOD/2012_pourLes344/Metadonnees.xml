@@ -1,0 +1,466 @@
+<Webs>
+					  <Web Url="/">
+						<List Url="">
+		<File FilePath="[ORIG]Decision_modificative_S_GEISLER_201203779_394.pdf">
+		  <Field Name="DCSCandidatId">201203779</Field>
+		  <Field Name="DCSCandidatNom1">GEISLER</Field>
+		  <Field Name="DCSCandidatPrenom1">Stéphanie</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200394</Field>
+		  <Field Name="DCSCirconscription">Paris - 7e</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Ludivine DALLE</Field>
+		  <Field Name="DCSRapporteurId">447</Field>
+		  <Field Name="DCSMembreCommission">François DELAFOSSE</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Barbara Jouan</Field>
+		  <Field Name="DCSLettreId">394</Field>
+		  <Field Name="DCSGEDChrono">51921</Field>
+		  <Field Name="DCSDate" DateTime="True">02-25-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">03-05-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">LEJEUNE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_modificative_S_GEISLER_201203779_394.pdf">
+		  <Field Name="DCSCandidatId">201203779</Field>
+		  <Field Name="DCSCandidatNom1">GEISLER</Field>
+		  <Field Name="DCSCandidatPrenom1">Stéphanie</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200394</Field>
+		  <Field Name="DCSCirconscription">Paris - 7e</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Ludivine DALLE</Field>
+		  <Field Name="DCSRapporteurId">447</Field>
+		  <Field Name="DCSMembreCommission">François DELAFOSSE</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Barbara Jouan</Field>
+		  <Field Name="DCSLettreId">394</Field>
+		  <Field Name="DCSGEDChrono">51921</Field>
+		  <Field Name="DCSDate" DateTime="True">02-25-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">03-05-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">LEJEUNE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="[ORIG]Decision_modificative_C_HEBERT_201203851_396.pdf">
+		  <Field Name="DCSCandidatId">201203851</Field>
+		  <Field Name="DCSCandidatNom1">HÉBERT</Field>
+		  <Field Name="DCSCandidatPrenom1">Clémence</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200396</Field>
+		  <Field Name="DCSCirconscription">Paris - 9e</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Gilles TEISSIER</Field>
+		  <Field Name="DCSRapporteurId">189</Field>
+		  <Field Name="DCSMembreCommission">François DELAFOSSE</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Barbara Jouan</Field>
+		  <Field Name="DCSLettreId">396</Field>
+		  <Field Name="DCSGEDChrono">51804</Field>
+		  <Field Name="DCSDate" DateTime="True">02-11-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">02-13-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">DVD</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">LEFEBVRE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_modificative_C_HEBERT_201203851_396.pdf">
+		  <Field Name="DCSCandidatId">201203851</Field>
+		  <Field Name="DCSCandidatNom1">HÉBERT</Field>
+		  <Field Name="DCSCandidatPrenom1">Clémence</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200396</Field>
+		  <Field Name="DCSCirconscription">Paris - 9e</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Gilles TEISSIER</Field>
+		  <Field Name="DCSRapporteurId">189</Field>
+		  <Field Name="DCSMembreCommission">François DELAFOSSE</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Barbara Jouan</Field>
+		  <Field Name="DCSLettreId">396</Field>
+		  <Field Name="DCSGEDChrono">51804</Field>
+		  <Field Name="DCSDate" DateTime="True">02-11-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">02-13-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">DVD</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">LEFEBVRE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="[ORIG]Decision_modificative_A-M_DESACHY_201204396_496.pdf">
+		  <Field Name="DCSCandidatId">201204396</Field>
+		  <Field Name="DCSCandidatNom1">DESACHY</Field>
+		  <Field Name="DCSCandidatPrenom1">Anne-Marie</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200496</Field>
+		  <Field Name="DCSCirconscription">Hauts-de-Seine - 1ère</Field>
+		  <Field Name="DCSDepartement">92</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Pierre GINON</Field>
+		  <Field Name="DCSRapporteurId">540</Field>
+		  <Field Name="DCSMembreCommission">Martine BETCH</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Jérémie Bianco</Field>
+		  <Field Name="DCSLettreId">496</Field>
+		  <Field Name="DCSGEDChrono">51803</Field>
+		  <Field Name="DCSDate" DateTime="True">02-11-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">02-13-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">OLIVIER</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_modificative_A-M_DESACHY_201204396_496.pdf">
+		  <Field Name="DCSCandidatId">201204396</Field>
+		  <Field Name="DCSCandidatNom1">DESACHY</Field>
+		  <Field Name="DCSCandidatPrenom1">Anne-Marie</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200496</Field>
+		  <Field Name="DCSCirconscription">Hauts-de-Seine - 1ère</Field>
+		  <Field Name="DCSDepartement">92</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Pierre GINON</Field>
+		  <Field Name="DCSRapporteurId">540</Field>
+		  <Field Name="DCSMembreCommission">Martine BETCH</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Jérémie Bianco</Field>
+		  <Field Name="DCSLettreId">496</Field>
+		  <Field Name="DCSGEDChrono">51803</Field>
+		  <Field Name="DCSDate" DateTime="True">02-11-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">02-13-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">OLIVIER</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+<File FilePath="[ORIG]Decision_A_LESLUYE_201206187_6187.pdf">
+		  <Field Name="DCSCandidatId">201206187</Field>
+		  <Field Name="DCSCandidatNom1">LESLUYE</Field>
+		  <Field Name="DCSCandidatPrenom1">Aurélien</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200579</Field>
+		  <Field Name="DCSCirconscription">Français de l'étranger - 11e</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Isabelle CHOUTET</Field>
+		  <Field Name="DCSRapporteurId">425</Field>
+		  <Field Name="DCSMembreCommission">Roger GAUNET</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Anne-Laure Vignal</Field>
+		  <Field Name="DCSLettreId">6187</Field>
+		  <Field Name="DCSGEDChrono">52072</Field>
+		  <Field Name="DCSDate" DateTime="True">03-06-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">05-02-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">LESLUYE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_A_LESLUYE_201206187_6187.pdf">
+		  <Field Name="DCSCandidatId">201206187</Field>
+		  <Field Name="DCSCandidatNom1">LESLUYE</Field>
+		  <Field Name="DCSCandidatPrenom1">Aurélien</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200579</Field>
+		  <Field Name="DCSCirconscription">Français de l'étranger - 11e</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Isabelle CHOUTET</Field>
+		  <Field Name="DCSRapporteurId">425</Field>
+		  <Field Name="DCSMembreCommission">Roger GAUNET</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Anne-Laure Vignal</Field>
+		  <Field Name="DCSLettreId">6187</Field>
+		  <Field Name="DCSGEDChrono">52072</Field>
+		  <Field Name="DCSDate" DateTime="True">03-06-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">05-02-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">LESLUYE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+<File FilePath="[ORIG]Decision_A_LESLUYE_201206187_394.pdf">
+		  <Field Name="DCSCandidatId">201206187</Field>
+		  <Field Name="DCSCandidatNom1">LESLUYE</Field>
+		  <Field Name="DCSCandidatPrenom1">Aurélien</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200579</Field>
+		  <Field Name="DCSCirconscription">Français de l'étranger - 11e</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Isabelle CHOUTET</Field>
+		  <Field Name="DCSRapporteurId">425</Field>
+		  <Field Name="DCSMembreCommission">Roger GAUNET</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Anne-Laure Vignal</Field>
+		  <Field Name="DCSLettreId">394</Field>
+		  <Field Name="DCSGEDChrono">52059</Field>
+		  <Field Name="DCSDate" DateTime="True">03-06-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">04-25-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">LESLUYE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_A_LESLUYE_201206187_394.pdf">
+		  <Field Name="DCSCandidatId">201206187</Field>
+		  <Field Name="DCSCandidatNom1">LESLUYE</Field>
+		  <Field Name="DCSCandidatPrenom1">Aurélien</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201200579</Field>
+		  <Field Name="DCSCirconscription">Français de l'étranger - 11e</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Législatives générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2012</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Isabelle CHOUTET</Field>
+		  <Field Name="DCSRapporteurId">425</Field>
+		  <Field Name="DCSMembreCommission">Roger GAUNET</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Anne-Laure Vignal</Field>
+		  <Field Name="DCSLettreId">394</Field>
+		  <Field Name="DCSGEDChrono">52059</Field>
+		  <Field Name="DCSDate" DateTime="True">03-06-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">04-25-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">LESLUYE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>		
+					</List>
+					</Web>
+					</Webs>

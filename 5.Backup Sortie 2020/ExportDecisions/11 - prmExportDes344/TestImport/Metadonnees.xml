@@ -1,0 +1,99 @@
+<Webs>
+	  <Web Url="/">
+		<List Url="">
+
+		<File FilePath="[ORIG]Decision_C_LEVIEUX_201300072_6.pdf">
+		  <Field Name="DCSCandidatId">201300072</Field>
+		  <Field Name="DCSCandidatNom1">LEVIEUX</Field>
+		  <Field Name="DCSCandidatPrenom1">Cédric</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201300006</Field>
+		  <Field Name="DCSCirconscription">Lot-et-Garonne-03eme</Field>
+		  <Field Name="DCSDepartement">47</Field>
+		  <Field Name="DCSRegion">2</Field>
+		  <Field Name="DCSElection">Législatives partielles</Field>
+		  <Field Name="DCSElectionType">Partielle</Field>
+		  <Field Name="DCSElectionAnnee">2013</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Pierre BANNIER</Field>
+		  <Field Name="DCSRapporteurId">463</Field>
+		  <Field Name="DCSMembreCommission">Jacques NÉGRIER</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Richard Guéret</Field>
+		  <Field Name="DCSLettreId">6</Field>
+		  <Field Name="DCSGEDChrono">52456</Field>
+		  <Field Name="DCSDate" DateTime="True">12-16-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">12-18-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance"></Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">647</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">AMOROSA</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_C_LEVIEUX_201300072_6.pdf">
+		  <Field Name="DCSCandidatId">201300072</Field>
+		  <Field Name="DCSCandidatNom1">LEVIEUX</Field>
+		  <Field Name="DCSCandidatPrenom1">Cédric</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201300006</Field>
+		  <Field Name="DCSCirconscription">Lot-et-Garonne-03eme</Field>
+		  <Field Name="DCSDepartement">47</Field>
+		  <Field Name="DCSRegion">2</Field>
+		  <Field Name="DCSElection">Législatives partielles</Field>
+		  <Field Name="DCSElectionType">Partielle</Field>
+		  <Field Name="DCSElectionAnnee">2013</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Pierre BANNIER</Field>
+		  <Field Name="DCSRapporteurId">463</Field>
+		  <Field Name="DCSMembreCommission">Jacques NÉGRIER</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Richard Guéret</Field>
+		  <Field Name="DCSLettreId">6</Field>
+		  <Field Name="DCSGEDChrono">52456</Field>
+		  <Field Name="DCSDate" DateTime="True">12-16-2013</Field>
+		  <Field Name="DCSDateJour" DateTime="True">12-18-2013</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance"></Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">647</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">AMOROSA</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+</List>
+</Web>
+</Webs>

@@ -1,0 +1,282 @@
+<Webs>
+<Web Url="/">
+<List Url="">
+		<File FilePath="[ORIG]Decision_G_FOSSE_201000839_167.pdf">
+		  <Field Name="DCSCandidatId">201000839</Field>
+		  <Field Name="DCSCandidatNom1">FOSSÉ</Field>
+		  <Field Name="DCSCandidatPrenom1">Gilbert</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000167</Field>
+		  <Field Name="DCSCirconscription">GUYANE</Field>
+		  <Field Name="DCSDepartement">973</Field>
+		  <Field Name="DCSRegion">16</Field>
+		  <Field Name="DCSElection">Régionales générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Schirley AVIGNON</Field>
+		  <Field Name="DCSRapporteurId">498</Field>
+		  <Field Name="DCSMembreCommission">Roger GAUNET</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Marine Alard</Field>
+		  <Field Name="DCSLettreId">167</Field>
+		  <Field Name="DCSGEDChrono">2472</Field>
+		  <Field Name="DCSDate" DateTime="True">10-04-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">10-15-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">OTHILY</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_G_FOSSE_201000839_167.pdf">
+		  <Field Name="DCSCandidatId">201000839</Field>
+		  <Field Name="DCSCandidatNom1">FOSSÉ</Field>
+		  <Field Name="DCSCandidatPrenom1">Gilbert</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000167</Field>
+		  <Field Name="DCSCirconscription">GUYANE</Field>
+		  <Field Name="DCSDepartement">973</Field>
+		  <Field Name="DCSRegion">16</Field>
+		  <Field Name="DCSElection">Régionales générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Schirley AVIGNON</Field>
+		  <Field Name="DCSRapporteurId">498</Field>
+		  <Field Name="DCSMembreCommission">Roger GAUNET</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Marine Alard</Field>
+		  <Field Name="DCSLettreId">167</Field>
+		  <Field Name="DCSGEDChrono">2472</Field>
+		  <Field Name="DCSDate" DateTime="True">10-04-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">10-15-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">AUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">OTHILY</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="[ORIG]Decision_A_KANOUTE_201000758_169.pdf">
+		  <Field Name="DCSCandidatId">201000758</Field>
+		  <Field Name="DCSCandidatNom1">Kanoute</Field>
+		  <Field Name="DCSCandidatPrenom1">Almamy</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000169</Field>
+		  <Field Name="DCSCirconscription">ÎLE-DE-FRANCE</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Régionales générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">True</Field>
+		  <Field Name="DCSRapporteur">Hélène VALLETTE</Field>
+		  <Field Name="DCSRapporteurId">496</Field>
+		  <Field Name="DCSMembreCommission">François DELAFOSSE</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Barbara Jouan</Field>
+		  <Field Name="DCSLettreId">169</Field>
+		  <Field Name="DCSGEDChrono">1727</Field>
+		  <Field Name="DCSDate" DateTime="True">07-05-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">07-12-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">LAUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Association de financement électoral</Field>
+		  <Field Name="DCSMandataire"></Field>
+		  <Field Name="DCSAssociation">EMERGENCE</Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_A_KANOUTE_201000758_169.pdf">
+		  <Field Name="DCSCandidatId">201000758</Field>
+		  <Field Name="DCSCandidatNom1">Kanoute</Field>
+		  <Field Name="DCSCandidatPrenom1">Almamy</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000169</Field>
+		  <Field Name="DCSCirconscription">ÎLE-DE-FRANCE</Field>
+		  <Field Name="DCSDepartement">75</Field>
+		  <Field Name="DCSRegion">7</Field>
+		  <Field Name="DCSElection">Régionales générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">True</Field>
+		  <Field Name="DCSRapporteur">Hélène VALLETTE</Field>
+		  <Field Name="DCSRapporteurId">496</Field>
+		  <Field Name="DCSMembreCommission">François DELAFOSSE</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Barbara Jouan</Field>
+		  <Field Name="DCSLettreId">169</Field>
+		  <Field Name="DCSGEDChrono">1727</Field>
+		  <Field Name="DCSDate" DateTime="True">07-05-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">07-12-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">LAUT</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Association de financement électoral</Field>
+		  <Field Name="DCSMandataire"></Field>
+		  <Field Name="DCSAssociation">EMERGENCE</Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="[ORIG]Decision_R_AREL_201000843_167.pdf">
+		  <Field Name="DCSCandidatId">201000843</Field>
+		  <Field Name="DCSCandidatNom1">AREL</Field>
+		  <Field Name="DCSCandidatPrenom1">Roger</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000167</Field>
+		  <Field Name="DCSCirconscription">GUYANE</Field>
+		  <Field Name="DCSDepartement">973</Field>
+		  <Field Name="DCSRegion">16</Field>
+		  <Field Name="DCSElection">Régionales générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Schirley AVIGNON</Field>
+		  <Field Name="DCSRapporteurId">498</Field>
+		  <Field Name="DCSMembreCommission">Roger GAUNET</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Marine Alard</Field>
+		  <Field Name="DCSLettreId">167</Field>
+		  <Field Name="DCSGEDChrono">2471</Field>
+		  <Field Name="DCSDate" DateTime="True">10-04-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">10-15-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">DVD</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">MARIEMA</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_R_AREL_201000843_167.pdf">
+		  <Field Name="DCSCandidatId">201000843</Field>
+		  <Field Name="DCSCandidatNom1">AREL</Field>
+		  <Field Name="DCSCandidatPrenom1">Roger</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000167</Field>
+		  <Field Name="DCSCirconscription">GUYANE</Field>
+		  <Field Name="DCSDepartement">973</Field>
+		  <Field Name="DCSRegion">16</Field>
+		  <Field Name="DCSElection">Régionales générales</Field>
+		  <Field Name="DCSElectionType">Générale</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Schirley AVIGNON</Field>
+		  <Field Name="DCSRapporteurId">498</Field>
+		  <Field Name="DCSMembreCommission">Roger GAUNET</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Marine Alard</Field>
+		  <Field Name="DCSLettreId">167</Field>
+		  <Field Name="DCSGEDChrono">2471</Field>
+		  <Field Name="DCSDate" DateTime="True">10-04-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">10-15-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">DVD</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">MARIEMA</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+</List>
+</Web>
+</Webs>

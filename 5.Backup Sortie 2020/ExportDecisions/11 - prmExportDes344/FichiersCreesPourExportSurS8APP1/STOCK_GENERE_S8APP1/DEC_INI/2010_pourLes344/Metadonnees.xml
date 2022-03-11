@@ -1,0 +1,190 @@
+<Webs>
+					  <Web Url="/">
+						<List Url="">
+		<File FilePath="[ORIG]Decision_M_BEAULIEU_201000894_199.pdf">
+		  <Field Name="DCSCandidatId">201000894</Field>
+		  <Field Name="DCSCandidatNom1">BEAULIEU</Field>
+		  <Field Name="DCSCandidatPrenom1">Maxime</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000199</Field>
+		  <Field Name="DCSCirconscription">Arcis-sur-Aube</Field>
+		  <Field Name="DCSDepartement">10</Field>
+		  <Field Name="DCSRegion">1</Field>
+		  <Field Name="DCSElection">Départementales partielles</Field>
+		  <Field Name="DCSElectionType">Partielle</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Jacques GISCLON</Field>
+		  <Field Name="DCSRapporteurId">185</Field>
+		  <Field Name="DCSMembreCommission">Martine BETCH</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Jérémie Bianco</Field>
+		  <Field Name="DCSLettreId">199</Field>
+		  <Field Name="DCSGEDChrono">2682</Field>
+		  <Field Name="DCSDate" DateTime="True">11-08-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">11-16-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">VEC</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">VAN DE CASTEELE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_M_BEAULIEU_201000894_199.pdf">
+		  <Field Name="DCSCandidatId">201000894</Field>
+		  <Field Name="DCSCandidatNom1">BEAULIEU</Field>
+		  <Field Name="DCSCandidatPrenom1">Maxime</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000199</Field>
+		  <Field Name="DCSCirconscription">Arcis-sur-Aube</Field>
+		  <Field Name="DCSDepartement">10</Field>
+		  <Field Name="DCSRegion">1</Field>
+		  <Field Name="DCSElection">Départementales partielles</Field>
+		  <Field Name="DCSElectionType">Partielle</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">False</Field>
+		  <Field Name="DCSRapporteur">Jacques GISCLON</Field>
+		  <Field Name="DCSRapporteurId">185</Field>
+		  <Field Name="DCSMembreCommission">Martine BETCH</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Jérémie Bianco</Field>
+		  <Field Name="DCSLettreId">199</Field>
+		  <Field Name="DCSGEDChrono">2682</Field>
+		  <Field Name="DCSDate" DateTime="True">11-08-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">11-16-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance">VEC</Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">VAN DE CASTEELE</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">False</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">False</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="[ORIG]Decision_J_CHOQUENET_201000941_251.pdf">
+		  <Field Name="DCSCandidatId">201000941</Field>
+		  <Field Name="DCSCandidatNom1">CHOQUENET</Field>
+		  <Field Name="DCSCandidatPrenom1">Jacques</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000251</Field>
+		  <Field Name="DCSCirconscription">Pont-à-Mousson</Field>
+		  <Field Name="DCSDepartement">54</Field>
+		  <Field Name="DCSRegion">1</Field>
+		  <Field Name="DCSElection">Municipales partielles</Field>
+		  <Field Name="DCSElectionType">Partielle</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">True</Field>
+		  <Field Name="DCSRapporteur">Denise DORÉ</Field>
+		  <Field Name="DCSRapporteurId">439</Field>
+		  <Field Name="DCSMembreCommission">Françoise DUCAROUGE</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Isabelle Choutet</Field>
+		  <Field Name="DCSLettreId">251</Field>
+		  <Field Name="DCSGEDChrono">2344</Field>
+		  <Field Name="DCSDate" DateTime="True">09-27-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">09-30-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance"></Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">PEYRAS</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">True</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">True</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+		<File FilePath="Decision_J_CHOQUENET_201000941_251.pdf">
+		  <Field Name="DCSCandidatId">201000941</Field>
+		  <Field Name="DCSCandidatNom1">CHOQUENET</Field>
+		  <Field Name="DCSCandidatPrenom1">Jacques</Field>
+		  <Field Name="DCSCandidatNom2"></Field>
+		  <Field Name="DCSCandidatPrenom2"></Field>
+		  <Field Name="DCSScrutin">201000251</Field>
+		  <Field Name="DCSCirconscription">Pont-à-Mousson</Field>
+		  <Field Name="DCSDepartement">54</Field>
+		  <Field Name="DCSRegion">1</Field>
+		  <Field Name="DCSElection">Municipales partielles</Field>
+		  <Field Name="DCSElectionType">Partielle</Field>
+		  <Field Name="DCSElectionAnnee">2010</Field>
+		  <Field Name="DCSScrutinContentieux">True</Field>
+		  <Field Name="DCSRapporteur">Denise DORÉ</Field>
+		  <Field Name="DCSRapporteurId">439</Field>
+		  <Field Name="DCSMembreCommission">Françoise DUCAROUGE</Field>
+		  <Field Name="DCSSuiviPar" UserType="True">Isabelle Choutet</Field>
+		  <Field Name="DCSLettreId">251</Field>
+		  <Field Name="DCSGEDChrono">2344</Field>
+		  <Field Name="DCSDate" DateTime="True">09-27-2010</Field>
+		  <Field Name="DCSDateJour" DateTime="True">09-30-2010</Field>
+		  <Field Name="DCSEtiquette"></Field>
+		  <Field Name="DCSNuance"></Field>
+		  <Field Name="DCSParti"></Field>
+		  <Field Name="DCSPartiId">0</Field>
+		  <Field Name="DCSMandataireType">Personne physique</Field>
+		  <Field Name="DCSMandataire">PEYRAS</Field>
+		  <Field Name="DCSAssociation"></Field>
+		  <Field Name="DCSExpertComptableId"></Field>
+		  <Field Name="DCSExpertComptable"></Field>
+		  <Field Name="DCSElu">True</Field>
+		  <Field Name="DCSSortant">False</Field>
+                   <Field Name="DCSRemboursable">True</Field>
+          <Field Name="DCSSens">AD</Field>
+		  <Field Name="DCSSignalee">False</Field>
+		  <Field Name="DCSDoctrine">False</Field>
+		  <Field Name="DCSExDoctrine">False</Field>
+		  <Field Name="DCSCasEspece">False</Field>
+		  <Field Name="DCSMotsClesAuto" IsTaxo="True"></Field>
+		  <Field Name="DCSMotsClesIndex" IsTaxo="True"></Field>
+		  <Field Name="DCSCommentaires"></Field>
+		  <Field Name="DCSRemiseEnCause"></Field>
+		  <Field Name="DCSAnonymisation">Non</Field>
+		  <Field Name="DCSAReviser">False</Field>
+		</File>
+					</List>
+					</Web>
+					</Webs>
